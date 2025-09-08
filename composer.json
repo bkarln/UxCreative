@@ -1,5 +1,6 @@
 {
     "name": "karol/ux-creative",
+      "description": "Webpage for UX Creative",
     "type": "project",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
