@@ -40,3 +40,5 @@ simply-static-archives/
 .env.local
 .env.production
 .env.development
+
+/vendor/
