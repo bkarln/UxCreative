@@ -1,0 +1,43 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e backups
+*.log
+*.bak
+*.tmp
+
+# Editor e IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node.js (caso use alguma automação ou build)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build e cache
+dist/
+build/
+.cache/
+.next/
+out/
+
+# WordPress (se estiver usando localmente)
+wp-config.php
+wp-content/themes
+wp-content/plugins
+
+# Simply Static (se estiver usando para exportar)
+simply-static/
+simply-static-archives/
+
+# Arquivos sensíveis
+.env
+.env.local
+.env.production
+.env.development
+
+/vendor/
