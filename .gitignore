@@ -25,10 +25,15 @@ build/
 .next/
 out/
 
-# WordPress (se estiver usando localmente)
+# WordPress
 wp-config.php
-wp-content/themes
-wp-content/plugins
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/cache/
+wp-content/advanced-cache.php
+*.log
+*.sql
 
 # Simply Static (se estiver usando para exportar)
 simply-static/
