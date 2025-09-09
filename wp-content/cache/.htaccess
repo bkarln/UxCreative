@@ -1,7 +1,7 @@
 
 # BEGIN INDEX
-# The directives (lines) between "BEGIN INDEX" and "END INDEX" are
-# dynamically generated, and should only be modified via WordPress filters.
-# Any changes to the directives between these markers will be overwritten.
+# As diretrizes (linhas) entre "BEGIN INDEX" e "END INDEX" são
+# geradas dinamicamente e só devem ser modificadas através de filtros do WordPress.
+# Quaisquer alterações nas diretivas entre esses marcadores serão sobrescritas.
 Options -Indexes
 # END INDEX
