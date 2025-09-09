@@ -31,6 +31,8 @@ wp-admin/
 wp-includes/
 wp-content/uploads/
 wp-content/cache/
+wp-content/themes/
+wp-content/plugins/
 wp-content/advanced-cache.php
 *.log
 *.sql
