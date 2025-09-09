@@ -27,8 +27,6 @@ out/
 
 # WordPress (se estiver usando localmente)
 wp-config.php
-wp-content/plugins/
-wp-content/themes/
 wp-content/uploads/
 
 # Simply Static (se estiver usando para exportar)
